@@ -93,7 +93,9 @@ $(document).ready(function () {
 
       But it's ok as long as I still have you.<br>
 
-      Of course it's not like I don't like being romantic, but it's ok because we still have so much to grow.<br>
+      Of course it's not like I don't like being romantic, but it's ok because we still have so much to grow. (Maybe we can start by something simple like answering each other message or MAYBE we could hang out sometimes u know?)<br>
+     
+      However. <br>
 
       I'm just thankful for how you accepted me even though I'm not even like the ordinary man.<br>
 
